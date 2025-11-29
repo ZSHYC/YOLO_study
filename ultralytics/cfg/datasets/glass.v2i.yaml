@@ -1,0 +1,7 @@
+path: D:\deeplearning\datasets\glass.v2i.yolov11
+train: train/images
+val: valid/images
+test: test/images
+
+names: ['Paper', 'Rock', 'Scissors']
+

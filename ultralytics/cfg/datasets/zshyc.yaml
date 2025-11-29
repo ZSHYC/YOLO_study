@@ -1,0 +1,9 @@
+path: D:\deeplearning\datasets\zshyc 
+train: images/train 
+val: images/val
+test: 
+
+
+names:
+  0: Shihao Zhang
+  1: Yuchen He
